@@ -1,0 +1,6 @@
+; File generated automatically from ./dlls/d3d10_1/d3d10_1.spec; do not edit!
+
+LIBRARY d3d10_1.dll
+
+EXPORTS
+  D3D10CreateDevice1@28 @5
